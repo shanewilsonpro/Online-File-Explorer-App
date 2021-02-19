@@ -1,0 +1,22 @@
+{
+  "name": "onlinefileexplorer",
+  "version": "1.0.0",
+  "description": "This project makes online file explorer using pure Node.js and bootstrap 4.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanewilsonpro/Online-File-Explorer-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanewilsonpro/Online-File-Explorer-App/issues"
+  },
+  "homepage": "https://github.com/shanewilsonpro/Online-File-Explorer-App#readme"
+}
